@@ -2,6 +2,8 @@
 
 Processing pipeline for French, performing Tokenisation, POS Tagging and NER
 
+## Installation of precompiled version
+
 
 A pre-compiled version of this application can be downloaded as a ZIP archive from:
 * http:http://downloads.gate.ac.uk/plugins/gateapplication-French-v1.0.zip
